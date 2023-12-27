@@ -3,7 +3,7 @@ module github.com/rancher/k3os
 go 1.16
 
 require (
-	github.com/docker/docker v20.10.24+incompatible
+	github.com/docker/docker v20.10.27+incompatible
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
